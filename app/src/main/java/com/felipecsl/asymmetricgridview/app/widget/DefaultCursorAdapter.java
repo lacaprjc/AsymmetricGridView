@@ -2,7 +2,7 @@ package com.felipecsl.asymmetricgridview.app.widget;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteCursor;
-import android.support.v4.widget.SimpleCursorAdapter;
+import androidx.cursoradapter.widget.SimpleCursorAdapter;
 
 import com.felipecsl.asymmetricgridview.app.R;
 import com.felipecsl.asymmetricgridview.app.model.DemoItem;
